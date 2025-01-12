@@ -10,23 +10,9 @@
         {
             "src": "/(.*)",
             "dest": "main.py"
-        }
-
-    ],
-
-    "regions": ["hnd1"],
-
-    "functions": {
-
-        "api/*.py": {
-
-            "memory": 1024,
-
-            "maxDuration": 10
-
 
         }
 
-    }
+    ]
 
 } 
